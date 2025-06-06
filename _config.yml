@@ -105,6 +105,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _instruments
+  - scope:
+      path: ""
+      type: instruments
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: false
 
 category_archive:
   type: liquid
@@ -116,3 +127,4 @@ tag_archive:
 collections:
   instruments:
     output: true
+    permalink: /:collection/:path/
