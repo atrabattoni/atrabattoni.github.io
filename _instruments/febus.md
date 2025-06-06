@@ -4,8 +4,9 @@ instrument: A1-R
 date: 01-09-2025
 description: The A1-R is a versatile device designed for reliable performance in various applications. It offers robust features, user-friendly operation, and consistent results, making it suitable for both professional and personal use.
 thumbnail: https://www.febus-optics.com/data/fm/appareils/febus_a1_2023.png
-title: Febus A1-R
 ---
+
+# Febus A1-R
 
 ![Febus A1-R](https://www.febus-optics.com/data/fm/appareils/febus_a1_2023.png)
 
