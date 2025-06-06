@@ -112,3 +112,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  instruments:
+    output: true
+    permalink: /instruments/:title/
+    title: Instruments
+    description: Instruments used by G-FROG
