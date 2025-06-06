@@ -116,6 +116,6 @@ tag_archive:
 collections:
   instruments:
     output: true
-    permalink: /instruments/:title/
+    permalink: /instruments/:link/
     title: Instruments
     description: Instruments used by G-FROG
