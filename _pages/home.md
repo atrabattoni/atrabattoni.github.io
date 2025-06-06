@@ -32,9 +32,17 @@ feature_row:
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
-title: About        
+   
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Le GdR G-FROG vise à structurer et rendre visible la communauté des chercheurs et praticiens utilisant les fibres optiques pour des applications en géosciences (Terre solide, surfaces et interfaces, océan-atmosphère, etc.).
+
+Notre réseau favorise l’innovation, la diffusion des connaissances et la promotion des technologies fibre optique (DAS, DTS, etc.) dans la recherche et l’observation. 
+
+Partenaires:
+
+- [EPOS-France](https://www.epos-france.fr/)
+- [FormaTerre](https://formaterre.fr/)
+- [Observatoire de la Côte d’Azur](https://www.oca.eu/)
 
 {% include feature_row %}
