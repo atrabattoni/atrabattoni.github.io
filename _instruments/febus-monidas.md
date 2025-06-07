@@ -1,17 +1,17 @@
 ---
 title: OptoDAS
 company: Alcatel Submarine Networks (ASN)
-instrument: OptoDAS-200
+instrument: OptoDAS
 start_date: 01-10-2025
-excerpt: The OptoDAS-200 is a state-of-the-art distributed acoustic sensing (DAS) instrument by Alcatel Submarine Networks, enabling real-time, high-sensitivity monitoring of submarine cables for security, integrity, and environmental applications.
-thumbnail: https://www.asn.com/images/optoDAS_200.png
+excerpt: The OptoDAS is a state-of-the-art distributed acoustic sensing (DAS) instrument by Alcatel Submarine Networks, enabling real-time, high-sensitivity monitoring of submarine cables for security, integrity, and environmental applications.
+thumbnail: https://www.asn.com/wp-content/uploads/2024/03/OptoDas.jpg
 ---
 
-![OptoDAS-200](https://www.asn.com/wp-content/uploads/2024/03/OptoDas.jpg)
+![OptoDAS](https://www.asn.com/wp-content/uploads/2024/03/OptoDas.jpg)
 
 ## Overview
 
-The OptoDAS-200 leverages advanced distributed acoustic sensing technology to transform standard optical fibers into thousands of virtual microphones. This enables continuous, real-time monitoring of submarine cable infrastructure, providing actionable insights for asset protection and operational efficiency.
+The OptoDAS leverages advanced distributed acoustic sensing technology to transform standard optical fibers into thousands of virtual microphones. This enables continuous, real-time monitoring of submarine cable infrastructure, providing actionable insights for asset protection and operational efficiency.
 
 ## Key Features
 
@@ -26,7 +26,7 @@ The OptoDAS-200 leverages advanced distributed acoustic sensing technology to tr
 
 | Feature             | Details                    |
 |---------------------|----------------------------|
-| Model               | OptoDAS-200                |
+| Model               | OptoDAS                    |
 | Sensing Range       | Up to 100 km per unit      |
 | Spatial Resolution  | 10 meters                  |
 | Power Supply        | 110-240V AC                |
