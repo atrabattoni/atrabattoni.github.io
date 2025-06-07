@@ -113,11 +113,8 @@ defaults:
       type: instruments
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: false
+      author_profile: false
       share: true
-      related: false
   # _portfolio
   - scope:
       path: ""
