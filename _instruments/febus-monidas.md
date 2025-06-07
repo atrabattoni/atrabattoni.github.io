@@ -1,6 +1,6 @@
 ---
 title: OptoDAS
-company: Alcatel Submarine Networks (ASN)
+company: ASN
 instrument: OptoDAS
 start_date: 01-10-2025
 excerpt: The OptoDAS is a state-of-the-art distributed acoustic sensing (DAS) instrument by Alcatel Submarine Networks, enabling real-time, high-sensitivity monitoring of submarine cables for security, integrity, and environmental applications.
@@ -11,7 +11,7 @@ thumbnail: https://www.asn.com/wp-content/uploads/2024/03/OptoDas.jpg
 
 ## Overview
 
-The OptoDAS leverages advanced distributed acoustic sensing technology to transform standard optical fibers into thousands of virtual microphones. This enables continuous, real-time monitoring of submarine cable infrastructure, providing actionable insights for asset protection and operational efficiency.
+The OptoDAS from Alcatel Submarine Networks (ASN) leverages advanced distributed acoustic sensing technology to transform standard optical fibers into thousands of virtual microphones. This enables continuous, real-time monitoring of submarine cable infrastructure, providing actionable insights for asset protection and operational efficiency.
 
 ## Key Features
 
