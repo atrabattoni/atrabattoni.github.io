@@ -1,8 +1,8 @@
 ---
-title: Febus A1-R
+title: Febus Monidas
 company: Febus
 instrument: A1-R
-date: 01-09-2025
+start_date: 01-09-2025
 excerpt: The A1-R is a versatile device designed for reliable performance in various applications. It offers robust features, user-friendly operation, and consistent results, making it suitable for both professional and personal use.
 thumbnail: https://www.febus-optics.com/data/fm/appareils/febus_a1_2023.png
 ---
@@ -36,5 +36,3 @@ The Febus A1-R is ideal for:
 - Personal projects requiring precision instrumentation
 
 For more information, refer to the [official documentation](https://www.febus.com/a1-r).
-
-<!-- {% include gallery caption="This is a sample gallery to go along with this case study." %} -->
