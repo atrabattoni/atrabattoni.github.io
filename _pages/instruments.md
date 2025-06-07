@@ -15,7 +15,7 @@ Explore our curated collection of scientific instruments available for borrowing
             <span style="display: block; font-size: 1.1em; font-weight: bold; color: #2a4d69; margin-bottom: 0.2em;">{{ instrument.company }}</span>
             <span style="display: block; font-size: 1.4em; font-weight: 600; color: #1b2838; margin-bottom: 0.5em;">{{ instrument.instrument }}</span>
         </a>
-        <p style="margin-top: 0;">{{ instrument.description }}</p>
+        <p style="margin-top: 0;">{{ instrument.excerpt }}</p>
     </div>
 </div>
 {% endfor %}
