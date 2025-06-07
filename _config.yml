@@ -22,7 +22,7 @@ github_username: username
 minimal_mistakes_skin: contrast
 search: true
 
-# Build settings
+# Build settings  
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
