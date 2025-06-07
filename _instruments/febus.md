@@ -28,9 +28,7 @@ title: Febus
 #     alt: "placeholder image 3"
 ---
 
-Some text
-
-<!-- # Febus A1-R
+# Febus A1-R
 
 ![Febus A1-R](https://www.febus-optics.com/data/fm/appareils/febus_a1_2023.png)
 
@@ -62,4 +60,4 @@ The Febus A1-R is ideal for:
 
 For more information, refer to the [official documentation](https://www.febus.com/a1-r).
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %} -->
+<!-- {% include gallery caption="This is a sample gallery to go along with this case study." %} -->
