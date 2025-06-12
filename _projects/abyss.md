@@ -7,7 +7,11 @@ funding: "ERC Starting Grant"
 start_date: "2022"
 end_date: "2027"
 website: "https://sites.google.com/view/dianerivet/erc-abyss"
-categories: ["Mathematics", "General Relativity", "Black Holes", "Partial Differential Equations"]
+categories:
+  - Mathematics
+  - General Relativity
+  - Black Holes
+  - Partial Differential Equations
 ---
 
 # ERC ABYSS Project Summary
